@@ -43,6 +43,9 @@ image_step = 100;				% Step for Showing Screenshots
 dt_over_rho_x_dx = dt / (rho * dx);
 kappa_x_dt_over_dx = kappa * dt / dx;
 
+% Create Parallel Pool
+% parpool(4)
+
 n = 0;
 disp('Calculation started.')
 tic

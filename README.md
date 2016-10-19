@@ -22,7 +22,7 @@ GPU version. The calculations are written for using GPU. This script requires th
 
 
 ## Technical Notes
-This program has been tested on Matlab R2016b on Windows and Linux.  
+These programs have been tested on Matlab R2016b.  
 For more detailed information about FDTD method (including 3-D elastic simulation), please refer our papers on simulation. ==> https://ultrasonics.jp/nagatani/fdtd/  
 Thank you.
 
